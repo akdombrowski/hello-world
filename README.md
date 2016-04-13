@@ -1,2 +1,5 @@
 # hello-world
-Learning how to use GitHub with the GitHub Hello World guide
+
+Hello,
+
+  I am studying computer science for my second bachelor's at University of Maryland University College. I have spent the majority of my time working with java, but I've played around with some others like javascript, python, and html.
